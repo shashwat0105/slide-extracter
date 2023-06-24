@@ -2,6 +2,7 @@
 An easy tool to extract slides from presentations ( recorded lectures 😉 )
 
 <h2>Command</h2>
+
 'pip install slide-extracter`
 
 <h3>Usage</h3>
