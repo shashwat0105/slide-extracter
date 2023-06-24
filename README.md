@@ -1,5 +1,5 @@
 # slide-extractor
-An easy tool to extract slides from presentations ( lectures 😉 )
+An easy tool to extract slides from presentations ( recorded lectures 😉 )
 
 <h3>Usage</h3>
 
